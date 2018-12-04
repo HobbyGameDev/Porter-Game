@@ -4,3 +4,16 @@
 !.gitignore
 !/Assets/
 !/ProjectSettings/
+
+# Visual Studio Stuff
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
